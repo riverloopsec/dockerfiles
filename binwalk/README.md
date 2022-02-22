@@ -5,7 +5,7 @@ Binwalk with selected dependencies.
 ## Supported tags and respective `Dockerfile` links
 
 * `latest` 
-([*binwalk/Dockerfile*](https://gitlab.com/riverloopsecurity/dockerfiles/blob/master/binwalk/Dockerfile))
+([*binwalk/Dockerfile*](https://github.com/riverloopsec/dockerfiles/blob/main/binwalk/Dockerfile))
 
 ## Input
 
